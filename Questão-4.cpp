@@ -3,7 +3,7 @@
 int main(){
 	
 	float a, b, c, d, produto;
-	printf("Programa que dado 4 números, calcule o produto entre eles \n \n");
+	printf("Programa que dado 4 nÃºmeros, calcule o produto entre eles \n \n");
 	printf("primeiro numero:");
 	scanf("%f", &a);
 	
